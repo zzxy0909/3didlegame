@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3didlegame.CSharp", "3didlegame.CSharp.csproj", "{79C9DDD9-1807-B09F-095D-722B4A5E3829}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3didlegame.CSharp.Editor", "3didlegame.CSharp.Editor.csproj", "{356EDFDC-18DD-F208-CC73-842524D4AB56}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79C9DDD9-1807-B09F-095D-722B4A5E3829}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79C9DDD9-1807-B09F-095D-722B4A5E3829}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79C9DDD9-1807-B09F-095D-722B4A5E3829}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79C9DDD9-1807-B09F-095D-722B4A5E3829}.Release|Any CPU.Build.0 = Release|Any CPU
+		{356EDFDC-18DD-F208-CC73-842524D4AB56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{356EDFDC-18DD-F208-CC73-842524D4AB56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{356EDFDC-18DD-F208-CC73-842524D4AB56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{356EDFDC-18DD-F208-CC73-842524D4AB56}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
